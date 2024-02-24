@@ -1,0 +1,9 @@
+*{
+    padding: 40px;
+    margin: 40px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
